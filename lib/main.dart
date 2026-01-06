@@ -102,12 +102,6 @@ class HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-//trial lang pi
-
-
-
-
-
 
         body: Center(
           child: Padding(
@@ -195,7 +189,7 @@ class PicturePage extends StatelessWidget {
               Navigator.pop(context);
             },
           ),
-          title: Text('picture'),
+          title: Text('picsi'),
         ),
 
         body: Container(
