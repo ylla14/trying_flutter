@@ -102,27 +102,12 @@ class HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-       // body: ListView(
-        //   scrollDirection: Axis.horizontal,
-        //   addAutomaticKeepAlives: false,
-        //   children: [
-        //     Container(
-        //       color: Colors.blue,
-        //       width: 500,
-        //       height: 500,
-        //     ),
-        //     Container(
-        //       color: Colors.green,
-        //       width: 500,
-        //       height: 500,
-        //     ),
-        //     Container(
-        //       color: Colors.pink,
-        //       width: 500,
-        //       height: 500,
-        //     )
-        //   ],
-        // ),
+//trial lang pi
+
+
+
+
+
 
         body: Center(
           child: Padding(
